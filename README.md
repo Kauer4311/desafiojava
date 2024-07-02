@@ -1,6 +1,6 @@
 ### about sobre
 
-Essa arquivo é de um desafio do Rocketeseat de JavaScript , para melhorar meu aprendizado em funções de JavaScrip.
+Essa arquivo é de um desafio da Rocketeseat de JavaScript , para melhorar meu aprendizado em funções de JavaScript.
 
 ### feito
 🔧- ferramentas:VsCode
